@@ -4,4 +4,4 @@ echo "target/
 *.log
 .env
 .DS_Store" > .gitignore
-.claude/
+
