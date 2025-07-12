@@ -1,0 +1,7 @@
+echo "target/
+*.iml
+.idea/
+*.log
+.env
+.DS_Store" > .gitignore
+.claude/
