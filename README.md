@@ -181,9 +181,9 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👨‍💻 Autor
 
-**Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- Email: tu-email@example.com
+**Felipe Camacho**
+- GitHub: [@PipeC29](https://github.com/PipeC29/)
+- Email: ing.felipecamachob@gmail.com
 
 ---
 
